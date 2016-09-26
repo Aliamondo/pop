@@ -1,0 +1,16 @@
+pr.dll
+_freeParsedStructure		_freeParsedStructure
+_freeParsingCache		_freeParsingCache
+_freeTagStructure		_freeTagStructure
+_parseStructure		_parseStructure
+_parseXmlFile		_parseXmlFile
+_prClassifyDat		_prClassifyDat
+_prExportDat		_prExportDat
+_prExportDatOpt		_prExportDatOpt
+_prImportDat		_prImportDat
+_prImportDatOpt		_prImportDatOpt
+_prSetOutput		_prSetOutput
+_resourceTreeGetChild		_resourceTreeGetChild
+_resourceTreeGetInfo		_resourceTreeGetInfo
+_resourceTreeGetNext		_resourceTreeGetNext
+_setCompressionLevel		_setCompressionLevel

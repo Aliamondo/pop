@@ -1,0 +1,125 @@
+---------------------------------------------------------------------------
+MAIN SCREEN
+---------------------------------------------------------------------------
+d                                    Start the level in DOSBox.
+e                                    Go to the events screen.
+h                                    Flip the room horizontally.
+q (and Escape)                       Quit the application.
+r                                    Go to the room links screen.
+s                                    Save the level.
+t                                    [PoP1] Switch between environments.
+v                                    Flip the room vertically.
+z                                    Change the interface size.
+Enter (and Return and Space)         Go to the tiles screen.
+Left arrow                           Go to the tile to the left.
+Right arrow                          Go to the tile to the right.
+Up arrow                             Go to a higher tile.
+Down arrow                           Go to a lower tile.
+Shift + Left arrow                   Go to the room to the left.
+Shift + Right arrow                  Go to the room to the right.
+Shift + Up arrow                     Go to a higher room.
+Shift + Down arrow                   Go to a lower room.
+Shift + left mouse button            Re-use the last used tile.
+Shift + scroll wheel                 Scroll horizontally.
+- (and _)                            Go to the previous level.
++ (and =)                            Go to the next level.
+/ (and ?)                            Clear the entire room.
+\                                    Randomize the entire level.
+'                                    Re-use the last used tile.
+"                                    Sprinkle the level with dec.
+F1                                   Go to the help screen.
+Ctrl+c                               Copy the room.
+Ctrl+v                               Paste the room.
+
+---------------------------------------------------------------------------
+ROOM LINKS SCREEN
+---------------------------------------------------------------------------
+d                                    Start the level in DOSBox.
+e                                    Go to the events screen.
+q (and Escape)                       Go to the main screen.
+r                                    Modify broken room links.
+s                                    Save the level.
+[                                    Select the previous room.
+]                                    Select the next room.
+Enter (and Return and Space)         Change the room location.
+Left arrow                           Move the cross to the left.
+Right arrow                          Move the cross to the right.
+Up arrow                             Move the cross up.
+Down arrow                           Move the cross down.
+- (and _)                            Go to the previous level.
++ (and =)                            Go to the next level.
+
+[BROKEN ROOM LINKS SCREEN]
+Enter (and Return and Space)         Increase adjacent room nr.
+Backspace                            Decrease adjacent room nr.
+Arrow keys                           Select adjacent room.
+
+---------------------------------------------------------------------------
+EVENTS SCREEN
+---------------------------------------------------------------------------
+d                                    Start the level in DOSBox.
+n                                    [PoP1] Check the box under N.
+q (and Escape)                       Go to the main screen.
+r                                    Go to the room links screen.
+s                                    Save the level.
+y                                    [PoP1] Check the box under Y.
+[                                    Select the previous room.
+]                                    Select the next room.
+Left arrow                           Select door to the left.
+Right arrow                          Select door to the right.
+Up arrow                             Select a higher door.
+Down arrow                           Select a lower door.
+Shift + Left arrow                   Decrease event number by 1.
+Shift + Right arrow                  Increase event number by 1.
+Ctrl + Left arrow                    Decrease event number by 10.
+Ctrl + Right arrow                   Increase event number by 10.
+- (and _)                            Go to the previous level.
++ (and =)                            Go to the next level.
+
+---------------------------------------------------------------------------
+TILES SCREEN
+---------------------------------------------------------------------------
+a                                    [PoP2 caverns/temple] Change wall.
+b*                                   [PoP2 caverns] Change bottom.
+b*                                   [PoP2 ruins/temple] Change background.
+c*                                   [PoP2 ruins] Change crack.
+f                                    [PoP2] Change frame.
+g                                    [PoP2] Change guards.
+j                                    [PoP2] Change jumps.
+m                                    [PoP2] Change music.
+o                                    Open custom tiles editor.
+p                                    [PoP2] Change % open.
+q (and Escape and c*)                Go to the main screen.
+r                                    [PoP2 ruins] Change wall.
+s*                                   [PoP2 caverns] Change stalactite.
+s*                                   [PoP2 ruins] Change symbol.
+Enter (and Return and Space)         Use the selected tile.
+Shift + Enter (and Return and Space) Fill entire room with tile.
+Ctrl + Enter (and Return and Space)  Fill entire level with tile.
+Left arrow                           Go to the tile to the left.
+Right arrow                          Go to the tile to the right.
+Up arrow                             Go to a higher tile.
+Down arrow                           Go to a lower tile.
+(left) Shift + Left arrow            Decrease event number by 1.
+(left) Shift + Right arrow           Increase event number by 1.
+(left) Ctrl + Left arrow             Decrease event number by 10.
+(left) Ctrl + Right arrow            Increase event number by 10.
+(right) Shift + Left arrow           [PoP2] Decrease % open by 1.
+(right) Shift + Right arrow          [PoP2] Increase % open by 1.
+(right) Ctrl + Left arrow            [PoP2] Decrease % open by 10.
+(right) Ctrl + Right arrow           [PoP2] Increase % open by 10.
+0-9*, a, b                           [PoP1] Set the guard's skill level.
+1-4*                                 [PoP2] Set jumps.
+
+[CUSTOM TILES SCREEN]
+n                                    Change foreground modifier.
+q (and Escape and c)                 Back to the tiles screen.
+y                                    Change foreground modifier.
+Enter (and Return and Space)         Use the custom tile.
+Left arrow                           Decrease foreground code.
+Right arrow                          Increase foreground code.
+Shift + Left arrow                   Decrease modifier by 1.
+Shift + Right arrow                  Increase modifier by 1.
+Ctrl + Left arrow                    Decrease modifier by 10.
+Ctrl + Right arrow                   Increase modifier by 10.
+0-3                                  Change foreground random.

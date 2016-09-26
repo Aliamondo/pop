@@ -1,0 +1,50 @@
+v2.0 (December 28, 2013) - Norbert de Jonge
+--------------------
++ The program can now also edit Prince of Persia 2 levels!
++ Some tiles in the editor are now animated.
++ Better loading screen, including animations.
++ Now displays a warning when hovering over marked tiles.
+* Moved the images to various subdirectories.
+
+v1.9b (September 20, 2013) - Norbert de Jonge
+--------------------
++ Added a screen that can be used to place custom tiles.
++ It's now possible to double the interface size.
++ Users can now copy and paste rooms, and flip rooms (horizontally and vertically).
++ Levels can now also be exported to XML.
++ The events screen now displays the target tile.
++ It's now possible to sprinkle levels with random decorations.
++ Added a simple help screen.
++ Added two extra guard levels.
++ A LEVELS.BAK file is now being created before saving a level.
++ The application can now immediately display any level on startup.
++ It's now possible to switch between dungeon and palace environments.
+* Several aesthetic and interaction improvements.[1]
+* Clearing a room now also removes the guard.
+* It's now easier to re-use the last used tile.
+* The scroll wheel can now also be used for horizontal scrolling.
+* Immediately playtesting specific levels now also works with non-default cheat codes.
+* Randomize no longer uses - now marked - distorting tiles.
+* It's now easier to decrease room numbers on the broken room links screen.
+* Fixed the image of one of the palace tiles.
+[1] Displays the room under the current room. If there is no room to the left, displays a wall. Better response to the selection of persons. Key repeat on. Less unnecessary screen updates.
+
+v1.2b (July 16, 2012) - Norbert de Jonge
+--------------------
++ Added a screen that can be used to (deliberately) create, change and fix so-called broken room links.
+* Fixed a minor bug that sometimes caused unintentional changes to events.
+
+v1.1 (January 30, 2011) - Norbert de Jonge
+--------------------
++ All actions can now also be performed with the keyboard. The keyboard shortcuts are listed in docs/keys.txt, and they're also shown when running the application. In order to ensure consistency, the "h/j/u/n keys" are not used on the main screen.
++ On the room links screen, a room that is being moved is now marked with red stripes.
++ Added seven additional interface sound effects.
++ The application now warns the user about unsaved changes.
+* Changed popup.wav (3.7MB to 6kB) in order to decrease the total size of the package.
+* There's now always a tile selected, to allow for faster switching between mouse and keyboard.
+* Cleaned up the code a bit, mostly by adding more functions.
+* The Princed Resources editor has been moved into the pr/ directory.
+
+v1.0b (April 3, 2008) - Norbert de Jonge
+--------------------
++ Initial release.

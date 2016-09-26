@@ -1,0 +1,13 @@
+res_conf_parts.h
+res_conf_files.h
+res_conf_types.h
+res_conf_mods.h
+res_conf_resources.h
+states_conf_static.h
+states_conf_flags.h
+tiles_conf_types.h
+tiles_conf_groups.h
+walls_conf.h
+anims_conf.h
+text_conf.h
+room_conf.h
