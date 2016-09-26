@@ -3,6 +3,7 @@
 	<name>PoP-android</name>
 	<comment></comment>
 	<projects>
+		<project>PoP</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
