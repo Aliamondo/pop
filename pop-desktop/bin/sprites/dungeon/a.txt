@@ -1,0 +1,11 @@
+end.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+the tyrant
+  rotate: false
+  xy: 0, 0
+  size: 264, 134
+  orig: 264, 134
+  offset: 0, 0
+  index: -1

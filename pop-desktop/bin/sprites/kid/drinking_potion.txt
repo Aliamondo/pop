@@ -1,0 +1,109 @@
+drinking_potion.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame7
+  rotate: false
+  xy: 146, 172
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+frame13
+  rotate: false
+  xy: 62, 90
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 188, 0
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 44, 182
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+frame10
+  rotate: false
+  xy: 0, 92
+  size: 30, 90
+  orig: 30, 90
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 188, 42
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 0, 184
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+frame11
+  rotate: false
+  xy: 0, 0
+  size: 34, 90
+  orig: 34, 90
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 94, 178
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+frame8
+  rotate: false
+  xy: 36, 0
+  size: 28, 88
+  orig: 28, 88
+  offset: 0, 0
+  index: -1
+frame14
+  rotate: false
+  xy: 104, 86
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 188, 92
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+frame12
+  rotate: false
+  xy: 110, 0
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+frame9
+  rotate: false
+  xy: 32, 92
+  size: 28, 88
+  orig: 28, 88
+  offset: 0, 0
+  index: -1
+frame15
+  rotate: false
+  xy: 66, 0
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1

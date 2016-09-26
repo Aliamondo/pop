@@ -1,0 +1,11 @@
+falling.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame15
+  rotate: false
+  xy: 0, 0
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
