@@ -1,0 +1,109 @@
+clipping.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame7
+  rotate: false
+  xy: 108, 148
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+frame13
+  rotate: false
+  xy: 0, 200
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 0, 0
+  size: 18, 106
+  orig: 18, 106
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 0, 108
+  size: 36, 90
+  orig: 36, 90
+  offset: 0, 0
+  index: -1
+frame10
+  rotate: false
+  xy: 108, 206
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 38, 90
+  size: 24, 88
+  orig: 24, 88
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 48, 0
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+frame11
+  rotate: false
+  xy: 156, 138
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 20, 0
+  size: 26, 88
+  orig: 26, 88
+  offset: 0, 0
+  index: -1
+frame8
+  rotate: false
+  xy: 152, 0
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+frame14
+  rotate: false
+  xy: 98, 0
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 64, 80
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+frame12
+  rotate: false
+  xy: 116, 88
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+frame9
+  rotate: false
+  xy: 152, 46
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+frame15
+  rotate: false
+  xy: 58, 180
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1

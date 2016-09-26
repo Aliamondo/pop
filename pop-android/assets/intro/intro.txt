@@ -1,0 +1,25 @@
+intro.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+copyright
+  rotate: false
+  xy: 2, 406
+  size: 224, 11
+  orig: 224, 11
+  offset: 0, 0
+  index: -1
+main background
+  rotate: false
+  xy: 2, 204
+  size: 320, 200
+  orig: 320, 200
+  offset: 0, 0
+  index: -1
+text background
+  rotate: false
+  xy: 2, 2
+  size: 320, 200
+  orig: 320, 200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+got_sword.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame7
+  rotate: false
+  xy: 84, 80
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 0, 80
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 0, 0
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 86, 0
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 40, 160
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 0, 160
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+frame8
+  rotate: false
+  xy: 42, 80
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 44, 0
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1

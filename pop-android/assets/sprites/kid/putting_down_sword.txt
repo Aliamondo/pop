@@ -1,0 +1,46 @@
+putting_down_sword.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame1
+  rotate: false
+  xy: 0, 0
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 46, 78
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 56, 0
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 0, 156
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 0, 78
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 40, 156
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1

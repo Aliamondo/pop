@@ -1,0 +1,95 @@
+couching.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame7
+  rotate: false
+  xy: 54, 194
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+frame13
+  rotate: false
+  xy: 0, 0
+  size: 22, 78
+  orig: 22, 78
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 54, 134
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 162, 0
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+frame10
+  rotate: false
+  xy: 0, 158
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 122, 0
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 92, 110
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+frame11
+  rotate: false
+  xy: 24, 0
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 206, 0
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+frame8
+  rotate: false
+  xy: 68, 0
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 88, 60
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+frame12
+  rotate: false
+  xy: 0, 80
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+frame9
+  rotate: false
+  xy: 34, 72
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1

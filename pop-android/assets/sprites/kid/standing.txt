@@ -1,0 +1,11 @@
+standing.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal
+  rotate: false
+  xy: 0, 0
+  size: 24, 82
+  orig: 24, 82
+  offset: 0, 0
+  index: -1

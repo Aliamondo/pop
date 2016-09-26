@@ -1,0 +1,81 @@
+run_jumping.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame7
+  rotate: false
+  xy: 102, 0
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 166, 144
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 0, 118
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+frame10
+  rotate: false
+  xy: 84, 84
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 194, 68
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 144, 222
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+frame11
+  rotate: false
+  xy: 194, 0
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 0, 198
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+frame8
+  rotate: false
+  xy: 0, 0
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 76, 156
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+frame9
+  rotate: false
+  xy: 0, 62
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
